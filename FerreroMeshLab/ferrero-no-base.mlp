@@ -1,0 +1,169 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh visible="0" label="option-0000.ply" filename="FerreroMVS/bombon.nvm.cmvs/00/models/option-0000.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" pointColor="131 149 69 255" wireColor="64 64 64 255" pointSize="3" solidColor="192 192 192 255">000111010000000010000100010001001010001010100000000100111010000000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" label="Poisson mesh" filename="ferrero-poisson.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" wireWidth="1" pointColor="131 149 69 255" wireColor="64 64 64 255" pointSize="3" solidColor="192 192 192 255">100001010000000010000100010001011010010010100000000100111010000000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup>
+  <MLRaster label="00000000.jpg">
+   <VCGCamera TranslationVector="-0.548029 -0.00174862 0.330329 1" RotationMatrix="0.480431 0.00912308 0.876984 0 -0.449695 -0.855931 0.255257 0 0.752967 -0.51701 -0.407114 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3110.3" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000000.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000001.jpg">
+   <VCGCamera TranslationVector="-1.74466 0.0689186 -2.41828 1" RotationMatrix="0.164912 0.0122449 0.986232 0 -0.509244 -0.855277 0.0957713 0 0.844675 -0.518027 -0.13481 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3139.51" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000001.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000002.jpg">
+   <VCGCamera TranslationVector="-1.27228 0.0752091 -0.780495 1" RotationMatrix="0.340578 0.0103436 0.940159 0 -0.482191 -0.856504 0.1841 0 0.807154 -0.516037 -0.286719 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3143.71" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000002.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000003.jpg">
+   <VCGCamera TranslationVector="-1.90814 0.054117 -3.88565 1" RotationMatrix="-0.00435753 0.0138319 0.999895 0 -0.517879 -0.855401 0.00957547 0 0.855443 -0.517783 0.0108915 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3132.58" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000003.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000004.jpg">
+   <VCGCamera TranslationVector="-1.91588 0.0572169 -5.50303 1" RotationMatrix="-0.183477 0.014238 0.98292 0 -0.509645 -0.856399 -0.0827271 0 0.840593 -0.516119 0.164386 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3145.75" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000004.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000005.jpg">
+   <VCGCamera TranslationVector="-1.65238 0.075701 -7.14308 1" RotationMatrix="-0.341389 0.0147387 0.939807 0 -0.488841 -0.856792 -0.164137 0 0.8028 -0.515451 0.299704 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3158.7" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000005.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000006.jpg">
+   <VCGCamera TranslationVector="-0.827529 0.0642872 -8.76929 1" RotationMatrix="-0.518145 0.0146098 0.855168 0 -0.446058 -0.857726 -0.255612 0 0.729765 -0.513899 0.450944 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3165.45" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000006.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000007.jpg">
+   <VCGCamera TranslationVector="0.257177 0.0109692 -9.99787 1" RotationMatrix="-0.665801 0.0134081 0.746009 0 -0.390591 -0.858158 -0.333172 0 0.635726 -0.51321 0.576599 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3140.66" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000007.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000008.jpg">
+   <VCGCamera TranslationVector="1.61666 0.0044508 -11.3369 1" RotationMatrix="-0.804002 0.0117802 0.594511 0 -0.312766 -0.858702 -0.405963 0 0.505725 -0.512338 0.694082 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3140.41" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000008.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000009.jpg">
+   <VCGCamera TranslationVector="2.96698 -0.0345793 -12.1219 1" RotationMatrix="-0.898139 0.0107326 0.439581 0 -0.234604 -0.857218 -0.458408 0 0.371897 -0.514841 0.772419 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3119.77" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000009.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000010.jpg">
+   <VCGCamera TranslationVector="4.74589 -7.15256e-06 -12.9754 1" RotationMatrix="-0.974245 0.00936227 0.225298 0 -0.123434 -0.858289 -0.498099 0 0.188709 -0.51308 0.83734 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3135.19" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000010.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000011.jpg">
+   <VCGCamera TranslationVector="6.42271 -0.000709057 -13.3295 1" RotationMatrix="-0.999425 0.00950786 0.032558 0 -0.02492 -0.857011 -0.514693 0 0.0230092 -0.515208 0.856755 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3139.24" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000011.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000012.jpg">
+   <VCGCamera TranslationVector="8.30667 0.0413685 -13.3567 1" RotationMatrix="-0.98416 0.00957415 -0.177023 0 0.083535 -0.855698 -0.51069 0 -0.156368 -0.517388 0.841343 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3139.16" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000012.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000013.jpg">
+   <VCGCamera TranslationVector="9.63301 0.0423269 -13.0819 1" RotationMatrix="-0.943367 0.00970241 -0.331609 0 0.16301 -0.857026 -0.48881 0 -0.28894 -0.515182 0.806908 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3147.79" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000013.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000014.jpg">
+   <VCGCamera TranslationVector="11.3019 0.036994 -12.4671 1" RotationMatrix="-0.85831 0.01026 -0.513027 0 0.256962 -0.85681 -0.44704 0 -0.444154 -0.515528 0.732773 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3139.48" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000014.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000015.jpg">
+   <VCGCamera TranslationVector="12.5468 -0.00377893 -11.623 1" RotationMatrix="-0.753896 0.0111826 -0.656898 0 0.333372 -0.855062 -0.397154 0 -0.56613 -0.518405 0.6409 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3109.16" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000015.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000016.jpg">
+   <VCGCamera TranslationVector="13.6381 0.00657129 -10.6972 1" RotationMatrix="-0.631081 0.0120486 -0.775624 0 0.395508 -0.855156 -0.335086 0 -0.667316 -0.518232 0.534906 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3123.78" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000016.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000017.jpg">
+   <VCGCamera TranslationVector="14.9222 -0.000789165 -8.98396 1" RotationMatrix="-0.432128 0.0128582 -0.901721 0 0.46157 -0.855849 -0.2334 0 -0.774738 -0.517066 0.363902 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3122.72" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000017.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000018.jpg">
+   <VCGCamera TranslationVector="15.6455 0.000753403 -7.66857 1" RotationMatrix="-0.276378 0.0127783 -0.960963 0 0.494174 -0.855703 -0.153506 0 -0.824261 -0.517309 0.230183 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3126.05" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000018.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000019.jpg">
+   <VCGCamera TranslationVector="15.9332 -0.0180244 -6.57014 1" RotationMatrix="-0.145301 0.0124633 -0.989309 0 0.510167 -0.855793 -0.0857098 0 -0.847713 -0.517167 0.117989 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3118.13" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000019.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000020.jpg">
+   <VCGCamera TranslationVector="16.2979 -0.00282383 -4.75049 1" RotationMatrix="0.0475989 0.011815 -0.998797 0 0.516189 -0.856353 0.0144695 0 -0.85515 -0.516256 -0.0468601 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3129.79" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000020.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000021.jpg">
+   <VCGCamera TranslationVector="16.2165 -0.0298042 -3.42881 1" RotationMatrix="0.196761 0.0111853 -0.980388 0 0.505222 -0.858113 0.0916069 0 -0.840259 -0.513339 -0.174494 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3130.93" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000021.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000022.jpg">
+   <VCGCamera TranslationVector="15.9342 -0.0362434 -1.96168 1" RotationMatrix="0.337143 0.0107443 -0.941391 0 0.486271 -0.858212 0.164355 0 -0.806148 -0.513182 -0.294566 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3131.2" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000022.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000023.jpg">
+   <VCGCamera TranslationVector="15.1775 -0.0107617 -0.462317 1" RotationMatrix="0.505366 0.00977547 -0.862849 0 0.447271 -0.858092 0.252243 0 -0.737939 -0.513403 -0.438023 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3134.67" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000023.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000024.jpg">
+   <VCGCamera TranslationVector="14.2733 0.000338078 0.839882 1" RotationMatrix="0.646357 0.00919099 -0.762979 0 0.397059 -0.857931 0.326033 0 -0.651588 -0.513682 -0.55818 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3140.94" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000024.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000025.jpg">
+   <VCGCamera TranslationVector="13.0031 -0.0464249 2.06271 1" RotationMatrix="0.78184 0.00903339 -0.623414 0 0.328127 -0.856182 0.399105 0 -0.53015 -0.516595 -0.672361 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3111.46" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000025.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000026.jpg">
+   <VCGCamera TranslationVector="11.8177 -0.0117223 2.92028 1" RotationMatrix="0.881058 0.00870255 -0.472928 0 0.250173 -0.857114 0.450297 0 -0.401435 -0.515053 -0.757345 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3127.98" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000026.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000027.jpg">
+   <VCGCamera TranslationVector="10.8702 8.58307e-06 3.53509 1" RotationMatrix="0.935369 0.00904611 -0.353559 0 0.190325 -0.855456 0.481634 0 -0.298098 -0.517797 -0.801888 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3130.37" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000027.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000028.jpg">
+   <VCGCamera TranslationVector="9.35858 0.0279007 4.12643 1" RotationMatrix="0.986113 0.00942605 -0.165811 0 0.0938055 -0.855492 0.509249 0 -0.13705 -0.517731 -0.844495 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3138.67" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000028.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000029.jpg">
+   <VCGCamera TranslationVector="7.85578 0.0436256 4.30389 1" RotationMatrix="0.999946 0.0104054 -5.55112e-17 0 0.00889599 -0.854841 0.518814 0 0.0053985 -0.518786 -0.854887 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3142.81" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000029.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000030.jpg">
+   <VCGCamera TranslationVector="6.67743 -1.3113e-06 4.23669 1" RotationMatrix="0.989696 0.0111943 0.142749 0 -0.0641554 -0.856601 0.511975 0 0.12801 -0.515858 -0.847056 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3125.55" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000030.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000031.jpg">
+   <VCGCamera TranslationVector="5.72621 0.0171901 4.23091 1" RotationMatrix="0.968278 0.0113441 0.249618 0 -0.119444 -0.856434 0.502249 0 0.219479 -0.516132 -0.827911 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3132.11" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000031.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000032.jpg">
+   <VCGCamera TranslationVector="3.94145 0.00378495 3.7422 1" RotationMatrix="0.931715 0.00895837 0.36308 0 -0.178231 -0.859766 0.478578 0 0.316451 -0.51061 -0.79946 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3124.24" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000032.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000033.jpg">
+   <VCGCamera TranslationVector="2.54318 -0.00237578 3.12534 1" RotationMatrix="0.852957 0.00917282 0.521901 0 -0.259807 -0.859736 0.439721 0 0.45273 -0.510656 -0.730934 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3118.79" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000033.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000034.jpg">
+   <VCGCamera TranslationVector="1.35073 -0.0433859 2.35063 1" RotationMatrix="0.751195 0.00925244 0.660015 0 -0.331492 -0.859379 0.389334 0 0.570806 -0.511255 -0.642494 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3098.21" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000034.jpg" semantic="1"/>
+  </MLRaster>
+  <MLRaster label="00000035.jpg">
+   <VCGCamera TranslationVector="0.465803 -0.00149906 1.70272 1" RotationMatrix="0.652628 0.00969251 0.757617 0 -0.382035 -0.859296 0.340087 0 0.654313 -0.511387 -0.557098 0 0 0 0 1 " CenterPx="2000 1500" CameraType="0" BinaryData="0" LensDistortion="0 0" ViewportPx="4000 3000" FocalMm="3119.99" PixelSizeMm="1 1"/>
+   <Plane fileName="visualize/00000035.jpg" semantic="1"/>
+  </MLRaster>
+ </RasterGroup>
+</MeshLabProject>
